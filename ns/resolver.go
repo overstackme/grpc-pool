@@ -8,7 +8,7 @@ import (
 )
 
 const (
-	nsDefaultSyncInterval = 2 * time.Second
+	nsDefaultSyncInterval = 1 * time.Second
 )
 
 type Discovery interface {
